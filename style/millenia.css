@@ -1,0 +1,81 @@
+.mbody{
+    background-image: url(../image/millenia_bg_2.jpg);
+    height:700px;
+    background-size: cover;
+    opacity: 0.8;
+    color:white;
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+
+.mlink{
+    color:darkgray;
+    font-family: sans-serif;
+    text-align: right;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+
+ul{
+    list-style-type: none;
+    
+}
+li{
+    display: inline;
+    padding:0 10px;
+    
+}
+
+.mheader{
+    text-align: left;
+    padding-right: 800px;
+    
+}
+
+.mform{
+    width: 450px;
+    padding-bottom:10px;
+}
+
+.mform_inner{
+    width:400px;
+    height: 45px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.mform_outer{
+    padding-top:10px;
+    padding-bottom:1px;
+}
+
+.micro_1_input_1{
+    width: 180px;
+    height: 45px;
+    border-radius: 10px;
+    float: left;
+    
+}
+.micro_2_input_1{
+    width: 180px;
+    height: 45px;
+    border-radius: 10px;
+    float: right;
+}
+.mform_outer_input_1{
+   width: 395px; 
+   height: 45px;
+   padding-top: 10px;
+   border-radius: 10px;
+}
+.mform_outer_input_2{
+   width: 395px; 
+   height: 45px;
+   padding-top: 10px;
+   border-radius: 10px;
+   font-family: sans-serif;
+   background-color:cornflowerblue;
+}
